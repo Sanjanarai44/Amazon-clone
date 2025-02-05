@@ -1,18 +1,20 @@
 # Amazon-clone
-Amazon clone using HTML and CSS\
+Amazon clone using HTML and CSS
+<br>
 Project Overview
+<br>
 The Amazon Clone is a front-end web development project that replicates the look and feel of Amazon’s homepage and key sections using only HTML and CSS. The goal of this project is to build a responsive and visually appealing e-commerce website layout, demonstrating proficiency in structuring web pages and styling them effectively.
 <br>
 Project Features
 <br>
-Navigation Bar
+Navigation Bar:
 Amazon-like top navigation bar with logo, search bar, cart, and account options.
 Sticky header for easy access.
 <br>
-Hero Section
+Hero Section:
 A banner or slideshow displaying promotional content.
 <br>
-Product Grid Section
+Product Grid Section:
 Multiple categories (Electronics, Fashion, Home, etc.) with product cards.
 Hover effects on product images.
 <br>
